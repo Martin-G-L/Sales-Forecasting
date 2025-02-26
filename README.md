@@ -13,6 +13,13 @@ Project of Stores Sales Forecasting Chalenge from Kagle
 
 ## 📈 Results
 - Best Model: XGBoost RMSLE Score = 1.096
-- Results falling within acceptable parameters considering the first approach. A new model with addicional feature engenering is required to enhance results. 
+- Results falling within acceptable parameters considering the first approach. 
 
+## 📌 Future Enhancements
+- Implement additional feature engineering techniques.
+- Pull Data through Kaggle API directly.
+- Enhance visualizations for better interpretability.
 
+- ## 📬 Contact
+For any questions or discussions, feel free to connect via:
+- **LinkedIn**: [Martin G L]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/martin-lartigue-753a26210/))
