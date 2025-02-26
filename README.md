@@ -22,4 +22,4 @@ Project of Stores Sales Forecasting Chalenge from Kagle
 
 - ## 📬 Contact
 For any questions or discussions, feel free to connect via:
-- **LinkedIn**: [Martin G L]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/martin-lartigue-753a26210/))
+- **LinkedIn**: [Martin G L](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/martin-lartigue-753a26210/)
