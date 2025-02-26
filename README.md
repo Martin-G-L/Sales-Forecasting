@@ -5,7 +5,7 @@ Project of Stores Sales Forecasting Chalenge from Kagle
 📊 An exploratory analysis aiming the creation of a machine learning model to predict store sales using historical data. 
 
 ## 📁 Dataset
-- Source: [Kaggle Store Sales Challenge]((https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview))
+- Source: [Kaggle Store Sales Challenge](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview)
 - Features include: sales by date, stores, promotions, holidays dates on Ecuador, oil prices.
 
 ## 🔧 Technologies Used
