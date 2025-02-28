@@ -11,7 +11,23 @@ Project of Stores Sales Forecasting Chalenge from Kagle
 ## 🔧 Technologies Used
 - Python, Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, Random Forest, SeaBorn, Pyplot
 
-## 📈 Results
+## 📁 Repository Structure
+```
+📂 Sales-Forescasting
+│── 📜 README.md                   # Project documentation
+│── 📂 notebooks                    # Jupyter notebooks for each stage of the project
+│   │── 00-Store Sales Analysis Basic Version.ipynb     # Full Notebook of First Exploratory approach.
+│   │── 01-Data Scrapping EV.ipynb                 # Presenting two methods to acquire the data. 
+│   │── 02-Data Analysis EV.ipynb*    #Exploratory Analysis rethinked after first results. 
+│   │── 03-Data Wrangling EV.ipynb*    #Data Cleaning and Feature Engeneering rethinked after first results.
+│   │── 04-Model Creation and Evaluation EV.ipynb*    #Machine Learning Model Development
+
+
+```
+*Modules yet to be delivered.
+**BV indicates notebooks of the basic version of the projects. EV indicates notebooks of enhance version currently beeing made. 
+
+## 📈 Results First Version:
 - Best Model: XGBoost RMSLE Score = 1.096
 - Results falling within acceptable parameters considering the first approach. 
 
@@ -19,6 +35,7 @@ Project of Stores Sales Forecasting Chalenge from Kagle
 - Implement additional feature engineering techniques.
 - Pull Data through Kaggle API directly.
 - Enhance visualizations for better interpretability.
+- Enhancements will be delivered by Modules for each step of the Data Science Methodology. 
 
 - ## 📬 Contact
 For any questions or discussions, feel free to connect via:
