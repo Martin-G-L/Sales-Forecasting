@@ -25,6 +25,7 @@ Project of Stores Sales Forecasting Chalenge from Kagle
 
 ```
 *Modules yet to be delivered.
+
 **BV indicates notebooks of the basic version of the projects. EV indicates notebooks of enhance version currently beeing made. 
 
 ## 📈 Results First Version:
